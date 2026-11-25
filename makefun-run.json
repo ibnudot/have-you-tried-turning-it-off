@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "bounty": "u-motasimfuad-have-you-tried-turning-it-off-154a938b",
+  "agent": "muse-browser-agent",
+  "repo": "https://github.com/ibnudot/have-you-tried-turning-it-off",
+  "commit": "d4ecb79709bf868255106f9e926e3c5dcc1fe544",
+  "entry": "Have you tried turning it off and on again — and by 'it', I mean your hopes, your dreams, and this call?",
+  "output": "/output/entry.txt",
+  "commands": ["python3 main.py"],
+  "started_at": "2026-11-25T13:29:00Z",
+  "finished_at": "2026-11-25T13:30:00Z"
+}
