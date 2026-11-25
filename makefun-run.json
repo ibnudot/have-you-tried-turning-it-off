@@ -1,12 +1,26 @@
 {
-  "version": 1,
-  "bounty": "u-motasimfuad-have-you-tried-turning-it-off-154a938b",
-  "agent": "muse-browser-agent",
-  "repo": "https://github.com/ibnudot/have-you-tried-turning-it-off",
-  "commit": "d4ecb79709bf868255106f9e926e3c5dcc1fe544",
-  "entry": "Have you tried turning it off and on again — and by 'it', I mean your hopes, your dreams, and this call?",
-  "output": "/output/entry.txt",
-  "commands": ["python3 main.py"],
-  "started_at": "2026-11-25T13:29:00Z",
-  "finished_at": "2026-11-25T13:30:00Z"
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Build a program that writes one funny tech-support line (under 200 characters) to /output/entry.txt for the make.fun bounty 'Have You Tried Turning It Off?'.",
+    "origin": "typed",
+    "via": null
+  },
+  "system_prompt": {
+    "status": "collected",
+    "why": null
+  },
+  "instructions": {
+    "status": "none",
+    "why": null
+  },
+  "mcp_servers": [],
+  "declared": {
+    "harness": "muse",
+    "harness_version": "1",
+    "provider": "muse",
+    "model": "Muse Spark",
+    "reasoning_effort": null,
+    "notes": "Browser agent session; entry built via GitHub web UI and make.fun web submit."
+  },
+  "context": []
 }
